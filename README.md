@@ -1,2 +1,2 @@
 # nikolab
-Program for parsing and calculation mathematical expression
+Program for calculation a mathematical expression
